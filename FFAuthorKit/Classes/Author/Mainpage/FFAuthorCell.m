@@ -9,7 +9,7 @@
 #import "FFAuthorCell.h"
 #import "FFAuthorKit.h"
 #import "YYWebImage.h"
-#import "FFAuthorListReformerKeys.h"
+#import "FFAuthorKit.h"
 
 @interface FFAuthorCell ()
 

@@ -7,9 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "FFReformProtocol.h"
-#import "FFAuthorListReformerKeys.h"
+//#import "FFReformProtocol.h"
+//#import "FFAuthorListReformerKeys.h"
 
+#import "FFAuthorKit.h"
 @interface FFAuthorListReformer : NSDictionary <FFReformProtocol>
 
 @end
