@@ -1,0 +1,51 @@
+{
+  "name": "FFAuthorKit",
+  "version": "2.5",
+  "summary": "业务组件",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/curious-cat/FFAuthorKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "842373586@qq.com": "842373586@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/curious-cat/FFAuthorKit.git",
+    "tag": "2.5"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFAuthorKit/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
+    ],
+    "ReactiveCocoa": [
+      "~> 2.5"
+    ],
+    "FFCategoryKit": [
+
+    ],
+    "FFAPIsKit": [
+
+    ],
+    "FFReformerKeysKit": [
+
+    ],
+    "FFToolsKit": [
+
+    ],
+    "FFConfigsKit": [
+
+    ],
+    "FFMainViewKit": [
+
+    ]
+  }
+}
